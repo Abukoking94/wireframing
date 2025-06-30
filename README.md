@@ -78,3 +78,25 @@ High-fidelity wireframes are detailed mockups that closely resemble the final pr
 The wireframe included in this project is a **Low-Fidelity Wireframe**.  
 It is intended to communicate layout and basic structure without focusing on final design elements like colors, typography, or interactivity. This allows for quick feedback and easy revisions in the early design phase.
 
+## Wireframing Tools
+
+Several tools are available for creating wireframes, ranging from simple sketching platforms to advanced design applications. Below are some popular options:
+
+- **Figma** (Recommended)
+- Adobe XD
+- Balsamiq
+- Sketch
+- Draw.io
+
+### Why Figma is Recommended
+
+**Figma** is a powerful, browser-based design tool that supports real-time collaboration. It's ideal for wireframing because of its ease of use, wide range of components, and flexibility.
+
+**Key Features:**
+- Drag-and-drop UI elements for rapid wireframing
+- Cloud-based collaboration and commenting
+- Reusable components and design systems
+- Version history and autosave
+- Works on any operating system (no installation required)
+
+Figma helps designers and developers iterate quickly, gather feedback, and align on layout and user flow early in the product development process.
