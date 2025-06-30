@@ -126,3 +126,22 @@ Wireframing plays a critical role in the software development process by bridgin
 
 By using wireframes, software teams build better, faster, and with fewer costly surprises.
 
+## Wireframing in Practice
+
+### Real-World Scenario
+
+In a hotel booking app project, the initial wireframe placed the "Book Now" button at the bottom of the property detail page. During early user testing, the team noticed that users struggled to find the button quickly—especially on mobile devices.
+
+### Resolution
+
+By reviewing the wireframe, the design team repositioned the "Book Now" button to appear fixed at the bottom of the screen on mobile and near the property title on desktop. This small layout change made the key action more visible and improved the user flow significantly.
+
+### Impact on Final Product
+
+- Increased booking conversions by reducing friction.
+- Reduced support queries related to confusion during the booking process.
+- Saved development time by catching the issue before coding began.
+
+### Conclusion
+
+Wireframing helped identify a major usability issue early on, saving both time and resources. It reinforces how essential wireframes are in creating intuitive, user-friendly designs and ensuring that the product meets user expectations from the start.
