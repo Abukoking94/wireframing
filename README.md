@@ -40,3 +40,41 @@ Illustrates interactive elements such as search bars, forms, and buttons.
 
 **Example:**  
 A "Book Now" button under each listing allows users to initiate the booking process directly from the listing view.
+
+## Types of Wireframes
+
+Wireframes are typically categorized into two main types: **Low-Fidelity** and **High-Fidelity**, based on their level of detail and purpose in the design process.
+
+### Low-Fidelity Wireframes
+Low-fidelity wireframes are simple, sketch-like layouts used in the early stages of the design process. They focus on structure and functionality rather than aesthetics.
+
+**When to Use:**
+- During brainstorming or ideation sessions
+- When testing basic layout and user flow
+- To gather early feedback quickly and inexpensively
+
+**Characteristics:**
+- Black and white
+- Placeholder content (e.g., "Lorem ipsum", gray boxes for images)
+- Hand-drawn or blocky digital shapes
+
+### High-Fidelity Wireframes
+High-fidelity wireframes are detailed mockups that closely resemble the final product. They may include actual text, images, spacing, and interactions.
+
+**When to Use:**
+- Before UI development begins
+- For usability testing
+- To present refined designs to stakeholders
+
+**Characteristics:**
+- Accurate spacing, fonts, and UI elements
+- Real or styled content
+- Interactive components may be simulated
+
+---
+
+## Type of Wireframe Used Here
+
+The wireframe included in this project is a **Low-Fidelity Wireframe**.  
+It is intended to communicate layout and basic structure without focusing on final design elements like colors, typography, or interactivity. This allows for quick feedback and easy revisions in the early design phase.
+
